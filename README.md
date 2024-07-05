@@ -4,12 +4,20 @@
 
 This repository contains a Power BI project that visualizes and analyzes survey data. The dashboard is designed to provide clear and insightful visualizations to help understand the survey results and derive actionable insights.
 
-Features
+# Features
+
 Interactive Dashboards: Includes various interactive elements such as slicers, drill-throughs, and tooltips to enhance the user experience.
+
 Demographic Analysis: Visualizations to analyze survey responses based on demographic factors like age, gender, location, etc.
+
 Sentiment Analysis: Insights into the sentiment of open-ended responses using text analysis tools.
+
 Trend Analysis: Displays trends and patterns in the survey responses over time.
+
 Comparison Charts: Allows for comparison between different respondent groups and questions.
+
 Custom Visuals: Utilizes custom visuals for more dynamic and informative data presentation.
-Data Sources
+
+# Data Sources
+
 Survey Data: The primary dataset used in this project consists of survey responses collected from [Survey Tool/Platform].
